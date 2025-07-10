@@ -7,3 +7,7 @@ FHEVM Solidity library: Enables developers to write confidential smart contracts
 
 Host contracts : Trusted on-chain contracts deployed on EVM-compatible blockchains. They manage access control and trigger off-chain encrypted computation.
 Today marks a major milestone for Zama. We’re taking things to the next level. Public Testnet Live on July 1st. 🦄 
+echo "Commit 7 line" >> README.md
+git add README.md
+GIT_AUTHOR_DATE="2025-06-10T07:00:07" GIT_COMMITTER_DATE="2025-06-10T07:00:07" git commit -m "Commit 7"
+

@@ -1,3 +1,6 @@
+echo "Commit 10 line" >> README.md
+git add README.md
+GIT_AUTHOR_DATE="2025-06-10T07:30:10" GIT_COMMITTER_DATE="2025-06-10T07:30:10" git commit -m "Commit 10"
 This section explains in depth the Zama Confidential Blockchain Protocol (Zama Protocol) and demonstrates how it can bring encrypted computation to smart contracts using Fully Homomorphic Encryption (FHE).
 
 FHEVM is the core technology that powers the Zama Protocol. It is composed of the following key components.
